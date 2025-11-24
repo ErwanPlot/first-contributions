@@ -1474,4 +1474,4 @@ Maqsood Ansari
 - [HarshSingh] (https://github.com/HarshVileon)
 - [domenhribernik](https://github.com/domenhribernik)
 - [TZiah](https://github.com/TZiah)
-- [Erwan Plot]
+- Erwan Plot
